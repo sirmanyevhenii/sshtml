@@ -1,0 +1,99 @@
+h1, h2, h3 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+table, th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+
+.header {
+    margin-bottom: 5rem;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo,
+.top-menu {
+    display: inline-block;
+}
+
+.logo--red {
+    color: #4286f4;
+}
+
+.top-menu li{
+    display: inline-block;
+}
+
+.header p {
+    text-align: center;
+}
+
+
+
+.about {
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.about-article figure {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+}
+
+.about-article p {
+    display: inline-block;
+    width: 25%;
+    text-align: justify;
+    vertical-align: top;
+}
+
+
+
+.hostel {
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.hostel figure {
+    display: inline-block;
+}
+
+
+.price {
+    margin-bottom: 5rem;
+    text-align: center;
+}
+
+.price-table{
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+
+.book-link {
+    margin-bottom: 5rem;
+}
+
+
+.book-form {
+    margin: 0 auto;
+    margin-bottom: 5rem;
+    width: 30rem;
+}
+
+
+
+
+
+
